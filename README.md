@@ -2,6 +2,8 @@
 
 To temporarily resolve the issue of using two static libraries with go simultaneously.
 
+issue: [cgo: duplicate definition linking cgo program with c-archive cgo library #49256](https://github.com/golang/go/issues/49256)
+
 ## test failed
 
 ```bash
